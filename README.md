@@ -1,2 +1,2 @@
 # MushroomsClassification
-Machine Learning applied to Binary Mashrooms Classification into Edible/Poisonous
+Machine Learning applied to Binary Mushrooms Classification into Edible/Poisonous
